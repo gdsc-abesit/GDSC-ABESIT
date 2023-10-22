@@ -82,44 +82,6 @@ const teamData = [
     },
 ]
 
-/*const TeamSection = () => {
-    return (
-        <div id="team" className={`bg-white text-black w-full text-center ${montserrat.className}`}>
-            <div className='w-4/5 mx-auto'>
-                <h2 className="text-3xl md:text-4xl font-bold mt-6">Team Member</h2>
-                <p className="text-base text-gray-700 md:text-lg w-3/4 mx-auto my-6">
-                    The list of people who're working to make this community amazing & welcoming.
-                </p>
-                <div className='flex flex-wrap justify-evenly items-center mt-12'>
-                    {teamData && teamData.map((member) => {
-                        return (
-                            <div key={member.id} className="flex flex-col  justify-center items-center gap-4 w-1/4 mb-8">
-                                <div>
-                                    <img className='rounded-full border-8 border-yellow-400 aspect-square' src={member.img} alt={member.name} width={175} />
-                                </div>
-                                <div>
-                                    <h3 className='text-2xl font-semibold'>{member.name}</h3>
-                                    <p className='text-blue-500 font-semibold'>{member.title}</p>
-                                    <div className="flex justify-center items-center gap-4 bg-blue-500 p-4 text-2xl text-white rounded-full mt-4 w-32 mx-auto">
-                                        <Link href={member.twitter} target="_blank" rel="noreferrer" className='transition hover:text-black'>
-                                            <FaTwitter />
-                                        </Link>
-                                        <Link href={member.github} target="_blank" rel="noreferrer" className='transition hover:text-black'>
-                                            <FaGithub />
-                                        </Link>
-                                    </div>
-                                </div>
-                            </div>
-                        )
-                    })}
-                </div>
-            </div>
-
-        </div>
-    )
-}*/
-
-
 const TeamSection = () => {
     return (
         <div id="team" className={`bg-white text-black w-full text-center ${montserrat.className}`}>
