@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: components/Team.jsx
+  checksum: 87d4c48e032b7ea83471ae885f9c5becb2679d2a2107afeef91ca55c2b8ae924
+version: ""
