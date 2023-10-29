@@ -51,18 +51,15 @@ function Contributors() {
       social2: "https://www.linkedin.com/in/kabir-shukla-396247233/",
       desc: "Aspiring Jim Halpert"
     },
-
-// Use this template below
-
-    // {
-    //     id: ,
-    //     name: "",
-    //     img: "",
-    //     role: "",
-    //     social1: "",
-    //     social2: "",
-    //     desc: ""
-    //   },
+    {
+         id: 2202901540128 ,
+         name: "Rashmi",
+         img: "https://avatars.githubusercontent.com/u/118280805?v=4",
+         role: "Public Relation",
+         social1: "https://github.com/RashK19",
+         social2: "https://www.linkedin.com/in/rashmi-kumari-146001237",
+         desc: "A beginner with lots of excitement to enter in the world of tech."
+     },
   ];
 
 
