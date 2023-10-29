@@ -80,6 +80,14 @@ const teamData = [
         twitter: 'https://x.com/t_prateek23',
         github: 'https://github.com/tomioka-sensei',
     },
+    {
+        id: 2202901540128,
+        name: 'Rashmi',
+        img: 'https://avatars.githubusercontent.com/u/118280805?s=400&u=e2354b324b6b9d35c9df2d73290a0889f34cf185&v=4',
+        title: 'Public Relations',
+        linkedin: 'https://www.linkedin.com/in/rashmi-kumari-146001237',
+        github: 'https://github.com/RashK19',
+    },
 ]
 
 const TeamSection = () => {
