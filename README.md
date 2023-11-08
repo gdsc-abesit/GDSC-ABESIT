@@ -24,9 +24,13 @@ We encourage contributions from the community. Whether it's fixing a bug, adding
 
 ## Hacktoberfest
 
-Here's a quick example video on how to make your first pull request with GDSC-ABESIT.
-
-https://github.com/IronicDeGawd/GDSC-ABESIT/assets/91710612/25513a68-e5dd-4fba-b573-4749caf6be20
+* 🌐 120+ forks
+* 👏 250+ commits
+* 🤝 Collaboration with Interledger
+* 🙌 120+ in-person attendees
+* 👥 47+ contributors
+* 🔀 77+ pull requests merged
+* ⭐ 25+ stars
 
 ## License
 
