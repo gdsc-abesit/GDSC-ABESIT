@@ -8,7 +8,7 @@ export default function App({ Component, pageProps }) {
     <>
     <ThemeProvider attribute="class">
       <NextNProgress />
-      <Component {...pageProps} />;
+      <Component {...pageProps} />
       </ThemeProvider>
     </>
   );
