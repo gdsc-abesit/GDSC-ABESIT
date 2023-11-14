@@ -203,12 +203,6 @@ export default function Footer() {
             >
               <FaGithub />
             </Link>
-            <Link
-              href="#"
-              className="transition hover:scale-105 hover:text-blue-500"
-            >
-              <FaFacebook />
-            </Link>
           </div>
         </div>
       </div>

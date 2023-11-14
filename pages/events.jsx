@@ -20,8 +20,7 @@ const events = () => {
                             <div>
                                 <img src='https://res.cloudinary.com/dmutgbmtd/image/upload/v1699954425/image_4_b9q9gg.png' alt='err' />
                             </div>
-
-                            <div className='my-5'>
+                            <div className='my-5 text-black'>
                                 <div className='bg-red-300 inline-flex p-1 rounded-lg mb-3'>
                                     HandsOn Workshop
                                 </div>
