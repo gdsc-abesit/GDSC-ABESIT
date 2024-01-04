@@ -30,7 +30,7 @@ const teamData = [
     {
         id: 3,
         name: 'Chirag Ramesh Chandra',
-        img: 'https://media.licdn.com/dms/image/D4D03AQF3Rrlg-Uls1w/profile-displayphoto-shrink_400_400/0/1692046813033?e=1701907200&v=beta&t=Ad_JDZC_bVD4Th-MMQrcnVswbasn5vrsOiXobar6yd4',
+        img: 'https://res.cloudinary.com/dkgwk8ey5/image/upload/v1704397077/1692046814475_u7zmfm.jpg',
         title: 'App Development',
         twitter: 'https://x.com/chiragchandra25',
         github: 'https://github.com/Chiragramesh25',
@@ -52,12 +52,12 @@ const teamData = [
         github: 'https://github.com/prnvtripathi',
     },
     {
-        id: 6,
-        name: 'Aahana Shukla',
-        img: 'https://github.com/Aahana-0204.png',
-        title: 'Outreach',
-        twitter: 'https://x.com/AahanaShukla2',
-        github: 'https://github.com/Aahana-0204',
+        id:6,
+        name : 'Harsh Tyagi',
+        img: 'https://res.cloudinary.com/dkgwk8ey5/image/upload/v1704396844/WhatsApp_Image_2024-01-05_at_01.00.36_rimcc6.jpg',
+        title: 'Harsh Tyagi',
+        twitter: 'https://twitter.com/PYGmlon',
+        github: 'https://github.com/ThePygmalion'
     },
     {
         id: 7,
@@ -114,7 +114,14 @@ const teamData = [
         title: 'Social Media',
         twitter: 'https://x.com/',
         github: "https://github.com"
-    }
+    }, {
+        id: 14,
+        name: 'Aahana Shukla',
+        img: 'https://github.com/Aahana-0204.png',
+        title: 'Outreach',
+        twitter: 'https://x.com/AahanaShukla2',
+        github: 'https://github.com/Aahana-0204',
+    },
 ]
 
 const TeamSection = () => {
